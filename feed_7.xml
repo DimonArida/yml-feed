@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-01-21 12:00">
+  <shop>
+    <name>Веста-Север Онлайн-курсы</name>
+    <company>Веста-Север</company>
+    <url>https://www.99rf.ru</url>
+    <picture>https://cdn.jsdelivr.net/gh/DimonArida/yml-feed@main/logo.png</picture>
+
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+
+    <offers>
+
+      <offer id="COURSE-001" available="true">
+        <name>Онлайн курс: Косметик-эстетист по уходу за лицом</name>
+        <url>https://www.99rf.ru/obrazovaniye#rec1118967621</url>
+        <price>14000</price>
+        <oldprice>22000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://cdn.jsdelivr.net/gh/DimonArida/yml-feed@main/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description><![CDATA[Профессиональный онлайн-курс Косметик-эстетист по уходу за лицом. Объём программы 288 академических часов. Продолжительность 2 месяца. Программа включает теоретическую подготовку и практические навыки в области эстетической косметологии лица. По окончании выдаётся диплом о переподготовке.]]></description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="месяц">2</param>
+        <param name="план"><![CDATA[Анатомия и физиология кожи лица; Диагностика типов кожи и кожных состояний; Косметические средства и их состав; Очищение и тонизирование кожи лица; Увлажнение и питание кожи; Антивозрастной уход; Аппаратные методы ухода за кожей лица; Составление индивидуальных программ ухода; Итоговая аттестация]]></param>
+      </offer>
+
+      <offer id="COURSE-002" available="true">
+        <name>Онлайн курс: Косметик-эстетист по уходу за телом</name>
+        <url>https://www.99rf.ru/obrazovaniye#rec1118967621</url>
+        <price>14000</price>
+        <oldprice>22000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://cdn.jsdelivr.net/gh/DimonArida/yml-feed@main/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description><![CDATA[Профессиональный онлайн-курс Косметик-эстетист по уходу за телом. Объём программы 288 академических часов. Продолжительность 2 месяца. Программа охватывает методы эстетического ухода за телом. По окончании выдаётся диплом о переподготовке.]]></description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="месяц">2</param>
+        <param name="план"><![CDATA[Анатомия и физиология кожи тела; Типы кожи и особенности ухода за телом; Косметические средства для тела; Пилинги и очищение кожи тела; Обёртывания и антицеллюлитные процедуры; Моделирование контуров тела; Аппаратные методы ухода за телом; Составление индивидуальных программ ухода за телом; Итоговая аттестация]]></param>
+      </offer>
+
+      <offer id="COURSE-003" available="true">
+        <name>Онлайн курс: Эстетическая коррекция волосяного покрова лица и тела: лазерная эпиляция</name>
+        <url>https://www.99rf.ru/obrazovaniye#rec1118967621</url>
+        <price>11000</price>
+        <oldprice>19000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://cdn.jsdelivr.net/gh/DimonArida/yml-feed@main/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description><![CDATA[Курс повышения квалификации Эстетическая коррекция волосяного покрова лица и тела: лазерная эпиляция. Объём программы 72 академических часа. Продолжительность 2 недели. По окончании выдаётся удостоверение о повышении квалификации.]]></description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="день">14</param>
+        <param name="план"><![CDATA[Физические основы лазерного излучения; Типы лазерного оборудования для эпиляции; Фототипы кожи и типы волос; Протоколы проведения процедур лазерной эпиляции; Противопоказания и осложнения; Техника безопасности при работе с лазерным оборудованием; Практические занятия; Итоговая аттестация]]></param>
+      </offer>
+
+      <offer id="COURSE-004" available="true">
+        <name>Онлайн курс: Эстетическая коррекция лица и тела: косметический массаж и аппаратные методы</name>
+        <url>https://www.99rf.ru/obrazovaniye#rec1118967621</url>
+        <price>11000</price>
+        <oldprice>19000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://cdn.jsdelivr.net/gh/DimonArida/yml-feed@main/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description><![CDATA[Курс повышения квалификации Эстетическая коррекция лица и тела: косметический массаж и аппаратные методы. Объём программы 72 академических часа. Продолжительность 2 недели. По окончании выдаётся удостоверение о повышении квалификации.]]></description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="день">14</param>
+        <param name="план"><![CDATA[Анатомия и физиология кожи лица и тела; Классический косметический массаж; Лимфодренажный массаж; Скульптурный массаж; Аппаратные методы: микротоки; Аппаратные методы: ультразвук; Аппаратные методы: RF-лифтинг; Составление комплексных программ коррекции; Итоговая аттестация]]></param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
