@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-07-10T12:00:00+03:00">
+  <shop>
+
+    <name>ESTHETICIAN</name>
+    <company>Веста-Север</company>
+    <url>https://esthetician-laser.ru</url>
+
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Косметологическое оборудование</category>
+      <category id="2" parentId="1">Лазеры для эпиляции</category>
+    </categories>
+
+    <delivery-options>
+      <option cost="0" days="1-3" order-before="18"/>
+    </delivery-options>
+
+    <offers>
+      <offer id="ESTH-DIODE-001" available="true">
+
+        <name>Диодный лазер для эпиляции ESTHETICIAN</name>
+        <url>https://esthetician-laser.ru/</url>
+
+        <price>539000</price>
+        <oldprice>790000</oldprice>
+        <currencyId>RUR</currencyId>
+
+        <categoryId>2</categoryId>
+
+        <picture>https://static.tildacdn.com/stor3530-3533-4163-b135-663938333734/72033d4f36dd48c62f3e9f8cc605dd48.png</picture>
+        <picture>https://static.tildacdn.com/stor6666-3137-4262-a439-636661646162/6f5b7101f7064b7a6221be8016989710.png
+</picture>
+        
+        <vendor>ESTHETICIAN</vendor>
+
+        <description>
+          <![CDATA[
+            Профессиональный диодный лазер для эпиляции ESTHETICIAN — мощное
+            и надёжное решение для салонов красоты и косметологических клиник.
+            Аппарат обеспечивает безопасное и эффективное удаление нежелательных
+            волос на любом участке тела. Подходит для всех фототипов кожи.
+            Встроенная система охлаждения обеспечивает комфорт процедуры.
+            Интуитивно понятный сенсорный дисплей с предустановленными программами.
+          ]]>
+        </description>
+
+        <sales_notes>Скидка 32%! Экономия 251 000 руб. Рассрочка, доставка по РФ.</sales_notes>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <country_of_origin>Южная Корея</country_of_origin>
+
+        <param name="Тип лазера">Диодный</param>
+        <param name="Назначение">Лазерная эпиляция</param>
+        <param name="Длина волны" unit="нм">755/808/940/1064nm</param>
+        <param name="Мощность лазерного модуля" unit="Вт">1600</param>
+        <param name="Плотность энергии" unit="Дж/см²">1-120</param>
+        <param name="Размер пятна" unit="мм">16x35</param>
+        <param name="Частота импульсов" unit="Гц">1-10</param>
+        <param name="Система охлаждения">TEC + воздушное + водяное + полупроводниковое</param>
+        <param name="Температура охлаждения наконечника" unit="°C">от -18 до +5</param>
+        <param name="Дисплей">Сенсорный, 10.4 дюйма</param>
+        <param name="Фототипы кожи">I-VI (все фототипы)</param>
+        <param name="Напряжение питания" unit="В">220</param>
+        <param name="Вес" unit="кг">38</param>
+        <param name="Гарантия" unit="мес">12</param>
+        <param name="Ресурс излучателя" unit="импульсов">50 000 000</param>
+
+      </offer>
+    </offers>
+
+  </shop>
+</yml_catalog>
