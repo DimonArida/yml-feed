@@ -49,7 +49,7 @@
 
         <sales_notes>Скидка 40 000 руб.! Рассрочка, доставка по РФ.</sales_notes>
         <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>Южная Корея</country_of_origin>
+        <country_of_origin>Китай</country_of_origin>
 
         <param name="Тип лазера">Диодный</param>
         <param name="Назначение">Лазерная эпиляция</param>
