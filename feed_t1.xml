@@ -26,15 +26,14 @@
         <url>https://esthetician-laser.ru/</url>
 
         <price>539000</price>
-        <oldprice>790000</oldprice>
+        <oldprice>579000</oldprice>
         <currencyId>RUR</currencyId>
 
         <categoryId>2</categoryId>
 
         <picture>https://static.tildacdn.com/stor3530-3533-4163-b135-663938333734/72033d4f36dd48c62f3e9f8cc605dd48.png</picture>
-        <picture>https://static.tildacdn.com/stor6666-3137-4262-a439-636661646162/6f5b7101f7064b7a6221be8016989710.png
-</picture>
-        
+        <picture>https://static.tildacdn.com/stor6666-3137-4262-a439-636661646162/6f5b7101f7064b7a6221be8016989710.png</picture>
+
         <vendor>ESTHETICIAN</vendor>
 
         <description>
@@ -48,7 +47,7 @@
           ]]>
         </description>
 
-        <sales_notes>Скидка 32%! Экономия 251 000 руб. Рассрочка, доставка по РФ.</sales_notes>
+        <sales_notes>Скидка 40 000 руб.! Рассрочка, доставка по РФ.</sales_notes>
         <manufacturer_warranty>true</manufacturer_warranty>
         <country_of_origin>Южная Корея</country_of_origin>
 
