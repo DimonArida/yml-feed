@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-04-22 12:00">
+  <shop>
+    <name>Веста-Север Онлайн-курсы</name>
+    <company>Веста-Север</company>
+    <url>https://www.99rf.ru</url>
+    <email>info@99rf.ru</email>
+    <picture>https://static.tildacdn.com/tild3561-6532-4133-b539-306634643834/logo.png</picture>
+
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+
+    <offers>
+
+      <offer id="COURSE-001" available="true">
+        <name>Косметик-эстетист по уходу за лицом</name>
+        <url>https://www.99rf.ru/kosmetik-estetist_face</url>
+        <price>14000</price>
+        <oldprice>22000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://static.tildacdn.com/tild3561-6532-4133-b539-306634643834/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description>Профессиональная переподготовка. Косметик-эстетист по уходу за лицом. Объем программы 288 академических часов. Продолжительность 2 месяца. Дистанционное обучение. По окончании выдается диплом о переподготовке.</description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="месяц">2</param>
+        <param name="ближайшая дата">2026-05-01</param>
+        <param name="План">Анатомия и физиология кожи лица</param>
+        <param name="План">Диагностика типов кожи</param>
+        <param name="План">Косметические средства и их состав</param>
+        <param name="План">Очищение и тонизирование кожи лица</param>
+        <param name="План">Увлажнение и питание кожи</param>
+        <param name="План">Антивозрастной уход</param>
+        <param name="План">Аппаратные методы ухода за кожей лица</param>
+        <param name="План">Составление индивидуальных программ ухода</param>
+        <param name="План">Итоговая аттестация</param>
+      </offer>
+
+      <offer id="COURSE-002" available="true">
+        <name>Предоставление косметических услуг по уходу за телом</name>
+        <url>https://www.99rf.ru/uhod-za-telom</url>
+        <price>14000</price>
+        <oldprice>22000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://static.tildacdn.com/tild3561-6532-4133-b539-306634643834/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description>Профессиональная переподготовка. Предоставление косметических услуг по уходу за телом. Объем программы 288 академических часов. Продолжительность 2 месяца. Дистанционное обучение. По окончании выдается диплом о переподготовке.</description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="месяц">2</param>
+        <param name="ближайшая дата">2026-05-01</param>
+        <param name="План">Анатомия и физиология кожи тела</param>
+        <param name="План">Типы кожи и особенности ухода за телом</param>
+        <param name="План">Косметические средства для тела</param>
+        <param name="План">Пилинги и очищение кожи тела</param>
+        <param name="План">Обертывания и антицеллюлитные процедуры</param>
+        <param name="План">Моделирование контуров тела</param>
+        <param name="План">Аппаратные методы ухода за телом</param>
+        <param name="План">Составление индивидуальных программ ухода</param>
+        <param name="План">Итоговая аттестация</param>
+      </offer>
+
+      <offer id="COURSE-003" available="true">
+        <name>Эстетическая коррекция волосяного покрова лица и тела - лазерная эпиляция</name>
+        <url>https://www.99rf.ru/lazernaya-epilyaciya</url>
+        <price>11000</price>
+        <oldprice>19000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://static.tildacdn.com/tild3561-6532-4133-b539-306634643834/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description>Профессиональная переподготовка. Эстетическая коррекция волосяного покрова лица и тела - лазерная эпиляция. Объем программы 72 академических часа. Продолжительность 2 недели. Дистанционное обучение. По окончании выдается диплом о переподготовке.</description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="день">14</param>
+        <param name="ближайшая дата">2026-05-01</param>
+        <param name="План">Физические основы лазерного излучения</param>
+        <param name="План">Типы лазерного оборудования</param>
+        <param name="План">Фототипы кожи и типы волос</param>
+        <param name="План">Протоколы проведения процедур лазерной эпиляции</param>
+        <param name="План">Противопоказания и осложнения</param>
+        <param name="План">Техника безопасности</param>
+        <param name="План">Практические занятия</param>
+        <param name="План">Итоговая аттестация</param>
+      </offer>
+
+      <offer id="COURSE-004" available="true">
+        <name>Эстетическая коррекция лица и тела - косметический массаж и аппаратные методы</name>
+        <url>https://www.99rf.ru/massazh-apparatnye-metody</url>
+        <price>11000</price>
+        <oldprice>19000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1006</categoryId>
+        <picture>https://static.tildacdn.com/tild3561-6532-4133-b539-306634643834/logo.png</picture>
+        <delivery>false</delivery>
+        <pickup>false</pickup>
+        <store>false</store>
+        <description>Профессиональная переподготовка. Эстетическая коррекция лица и тела - косметический массаж и аппаратные методы. Объем программы 72 академических часа. Продолжительность 2 недели. Дистанционное обучение. По окончании выдается диплом о переподготовке.</description>
+        <param name="Формат обучения">самостоятельно с наставником</param>
+        <param name="продолжительность" unit="день">14</param>
+        <param name="ближайшая дата">2026-05-01</param>
+        <param name="План">Анатомия и физиология кожи лица и тела</param>
+        <param name="План">Классический косметический массаж</param>
+        <param name="План">Лимфодренажный массаж</param>
+        <param name="План">Скульптурный массаж</param>
+        <param name="План">Аппаратные методы - микротоки</param>
+        <param name="План">Аппаратные методы - ультразвук</param>
+        <param name="План">Аппаратные методы - RF-лифтинг</param>
+        <param name="План">Составление комплексных программ коррекции</param>
+        <param name="План">Итоговая аттестация</param>
+      </offer>
+
+    </offers>
+  </shop>
+</yml_catalog>
