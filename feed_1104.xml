@@ -961,5 +961,8 @@ MBT SKIN ANALYZER — современный дерматологический 
         <param name="Дистрибьютор">ООО «Веста-Север»</param>
         <param name="Бонус">Пакет документов 2026 + маркетинговая поддержка</param>
       </offer>
- </shop>
+
+    </offers>
+
+  </shop>
 </yml_catalog>
