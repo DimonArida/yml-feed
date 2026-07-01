@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-20T12:00:00+03:00">
+<yml_catalog date="2026-07-01T12:00:00+03:00">
   <shop>
     <name>Веста-Север</name>
     <company>ООО «ВЕСТА-СЕВЕР»</company>
@@ -889,8 +889,8 @@ MBT-800WY — профессиональный лазерный аппарат �
         <vendor>MBT</vendor>
         <model>SKIN ANALYZER</model>
         <url>https://www.99rf.ru/mbtskinanalyzer</url>
-        <price>175000</price>
-        <oldprice>189000</oldprice>
+        <price>185000</price>
+        <oldprice>203000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>14</categoryId>
         <picture>https://static.tildacdn.com/tild6430-3439-4737-b131-373763613161/44.png</picture>
