@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-01T12:00:00+03:00">
+<yml_catalog date="2026-07-03T12:00:00+03:00">
   <shop>
     <name>Веста-Север</name>
     <company>ООО «ВЕСТА-СЕВЕР»</company>
@@ -34,8 +34,8 @@
         <vendor>MBT</vendor>
         <model>Viva Sculpt</model>
         <url>https://www.99rf.ru/vivasculpt</url>
-        <price>419000</price>
-        <oldprice>459000</oldprice>
+        <price>429000</price>
+        <oldprice>472000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild3031-3161-4037-a631-666263623339/noroot.png</picture>
@@ -117,8 +117,8 @@ MBT Viva Sculpt (CelluShape) — многофункциональная инно
         <vendor>MBT</vendor>
         <model>Vita Lift</model>
         <url>https://www.99rf.ru/vitalift</url>
-        <price>419000</price>
-        <oldprice>459000</oldprice>
+        <price>429000</price>
+        <oldprice>472000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild6364-3930-4161-b933-313533666435/8.png</picture>
