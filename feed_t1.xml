@@ -25,8 +25,8 @@
         <name>Диодный лазер для эпиляции ESTHETICIAN</name>
         <url>https://esthetician-laser.ru/</url>
 
-        <price>559000</price>
-        <oldprice>619000</oldprice>
+        <price>599000</price>
+        <oldprice>655000</oldprice>
         <currencyId>RUR</currencyId>
 
         <categoryId>2</categoryId>
@@ -47,7 +47,7 @@
           ]]>
         </description>
 
-        <sales_notes>Скидка 40 000 руб.! Рассрочка, доставка по РФ.</sales_notes>
+        <sales_notes>Скидка 56 000 руб.! Рассрочка, доставка по РФ.</sales_notes>
         <manufacturer_warranty>true</manufacturer_warranty>
         <country_of_origin>Китай</country_of_origin>
 
