@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-06T12:00:00+03:00">
+<yml_catalog date="2026-08-19T12:00:00+03:00">
   <shop>
     <name>Веста-Север</name>
     <company>ООО «ВЕСТА-СЕВЕР»</company>
@@ -30,8 +30,8 @@
         <vendor>MBT</vendor>
         <model>Esthetician</model>
         <url>https://www.99rf.ru/esthetician</url>
-        <price>559000</price>
-        <oldprice>619000</oldprice>
+        <price>599000</price>
+        <oldprice>655000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild3566-6636-4235-a637-623435343038/noroot_1.png</picture>
@@ -237,8 +237,8 @@ Pacer One Pro — профессиональный трёхволновой ди
         <vendor>MBT</vendor>
         <model>OMEGY</model>
         <url>https://www.99rf.ru/omegy</url>
-        <price>325000</price>
-        <oldprice>357000</oldprice>
+        <price>349000</price>
+        <oldprice>384000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild6231-3363-4636-a338-633437343733/noroot.png</picture>
@@ -295,8 +295,8 @@ OMEGY — профессиональный диодный лазер для эп
         <vendor>MBT</vendor>
         <model>OMEGY SMART</model>
         <url>https://www.99rf.ru/omegy_smart</url>
-        <price>239000</price>
-        <oldprice>263000</oldprice>
+        <price>243000</price>
+        <oldprice>268000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild6536-3634-4532-b436-353031363938/noroot.png</picture>
@@ -355,8 +355,8 @@ OMEGY SMART — компактный диодный лазер для эпиля
         <vendor>KeyLaser</vendor>
         <model>K17 Pro</model>
         <url>https://www.99rf.ru/keylaser_k17</url>
-        <price>550000</price>
-        <oldprice>589000</oldprice>
+        <price>556000</price>
+        <oldprice>611000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild6166-3331-4465-a438-353130616235/87.png</picture>
@@ -428,8 +428,8 @@ KeyLaser K17 Pro — профессиональный диодный лазер 
         <vendor>KeyLaser</vendor>
         <model>K18 Pro</model>
         <url>https://www.99rf.ru/k18</url>
-        <price>555000</price>
-        <oldprice>595000</oldprice>
+        <price>585000</price>
+        <oldprice>643000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild3132-6437-4234-a361-316562643234/11.png</picture>
@@ -505,8 +505,8 @@ KeyLaser K18 Pro — многофункциональный диодный ла�
         <vendor>MBT</vendor>
         <model>LumiRay</model>
         <url>https://www.99rf.ru/lumiray</url>
-        <price>589000</price>
-        <oldprice>639000</oldprice>
+        <price>599000</price>
+        <oldprice>659000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/tild6162-3932-4261-b031-333564303637/43.png</picture>
@@ -571,8 +571,8 @@ MBT LumiRay — многофункциональная косметологич�
         <vendor>MBT</vendor>
         <model>PUREBEAM</model>
         <url>https://www.99rf.ru/mbtpurebeam</url>
-        <price>799000</price>
-        <oldprice>879000</oldprice>
+        <price>829000</price>
+        <oldprice>912000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/tild3664-3533-4839-a434-653537323262/noroot.png</picture>
