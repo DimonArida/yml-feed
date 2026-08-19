@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-11T12:00:00+03:00">
+<yml_catalog date="2026-19-11T12:00:00+03:00">
   <shop>
     <name>Веста-Север</name>
     <company>ООО «ВЕСТА-СЕВЕР»</company>
@@ -34,8 +34,8 @@
         <vendor>MBT</vendor>
         <model>Viva Sculpt</model>
         <url>https://www.99rf.ru/vivasculpt</url>
-        <price>429000</price>
-        <oldprice>472000</oldprice>
+        <price>479000</price>
+        <oldprice>529000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild3031-3161-4037-a631-666263623339/noroot.png</picture>
@@ -117,8 +117,8 @@ MBT Viva Sculpt (CelluShape) — многофункциональная инно
         <vendor>MBT</vendor>
         <model>Vita Lift</model>
         <url>https://www.99rf.ru/vitalift</url>
-        <price>429000</price>
-        <oldprice>472000</oldprice>
+        <price>479000</price>
+        <oldprice>529000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild6364-3930-4161-b933-313533666435/8.png</picture>
@@ -193,8 +193,8 @@ MBT Vita Lift — многофункциональный аппарат для �
         <vendor>AnchorFree</vendor>
         <model>V8C1</model>
         <url>https://www.99rf.ru/anchorfreev8c1</url>
-        <price>430000</price>
-        <oldprice>469000</oldprice>
+        <price>465000</price>
+        <oldprice>510000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild3336-6362-4330-b135-343962303766/transparent-Photoroo.png</picture>
@@ -270,8 +270,8 @@ AnchorFree V8C1 — универсальный многофункциональ�
         <vendor>AnchorFree</vendor>
         <model>V8C2</model>
         <url>https://www.99rf.ru/v8c2</url>
-        <price>470000</price>
-        <oldprice>520000</oldprice>
+        <price>490000</price>
+        <oldprice>539000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/tild6366-6334-4237-b439-326536616432/IMG_5392-Photoroom.png</picture>
@@ -501,8 +501,8 @@ MBT-340 — профессиональный аппарат криолиполи
         <vendor>AnchorFree</vendor>
         <model>A58</model>
         <url>https://www.99rf.ru/a58</url>
-        <price>175000</price>
-        <oldprice>189000</oldprice>
+        <price>215000</price>
+        <oldprice>236000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/tild3964-6335-4962-a334-383066313035/noroot.png</picture>
@@ -889,8 +889,8 @@ MBT-800WY — профессиональный лазерный аппарат �
         <vendor>MBT</vendor>
         <model>SKIN ANALYZER</model>
         <url>https://www.99rf.ru/mbtskinanalyzer</url>
-        <price>185000</price>
-        <oldprice>203000</oldprice>
+        <price>205000</price>
+        <oldprice>2225000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>14</categoryId>
         <picture>https://static.tildacdn.com/tild6430-3439-4737-b131-373763613161/44.png</picture>
