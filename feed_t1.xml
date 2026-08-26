@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-26T12:00:00+03:00">
+<yml_catalog date="2026-08-27T12:00:00+03:00">
   <shop>
 
     <name>ESTHETICIAN</name>
@@ -25,8 +25,8 @@
         <name>Диодный лазер для эпиляции ESTHETICIAN</name>
         <url>https://esthetician-laser.ru/</url>
 
-        <price>599000</price>
-        <oldprice>655000</oldprice>
+        <price>569000</price>
+        <oldprice>626000</oldprice>
         <currencyId>RUR</currencyId>
 
         <categoryId>2</categoryId>
